@@ -1,9 +1,4 @@
 # Revenue-Cycle-Management-RCM-data-analysis
-
-
----
-
-
 This project analyzes healthcare claims and payment data to evaluate **payer performance** within a Revenue Cycle Management (RCM) context.
 
 The analysis includes:
